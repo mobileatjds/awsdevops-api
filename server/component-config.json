@@ -2,7 +2,7 @@
   "loopback-component-explorer": {
     "mountPath": "/explorer",
     "apiInfo": {
-      "title": "AWSDEVOPS API Updated with Circle CI 2",
+      "title": "AWSDEVOPS API",
       "description": "Version 1"
     }
   }
