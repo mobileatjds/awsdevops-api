@@ -2,7 +2,7 @@
   "loopback-component-explorer": {
     "mountPath": "/explorer",
     "apiInfo": {
-      "title": "AWSDEVOPS API Updated",
+      "title": "AWSDEVOPS API Updated, again",
       "description": "Version 1"
     }
   }
